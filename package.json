@@ -1,0 +1,14 @@
+{
+  "name": "raajeshsharma-profile",
+  "version": "1.0.0",
+  "description": "Dynamic GitHub profile README generator",
+  "main": "update-readme.js",
+  "scripts": {
+    "update-readme": "node update-readme.js",
+    "add-skill": "node add-skill.js",
+    "build": "node update-readme.js"
+  },
+  "keywords": ["github", "profile", "readme", "dynamic"],
+  "author": "Rajesh Sharma",
+  "license": "MIT"
+}

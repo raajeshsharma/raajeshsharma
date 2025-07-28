@@ -1,0 +1,134 @@
+{
+  "languages": [
+    {
+      "name": "Python",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
+    },
+    {
+      "name": "Java",
+      "proficiency": 3,
+      "level": "Intermediate",
+      "badge": "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"
+    }
+  ],
+  "frontend": [
+    {
+      "name": "React",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"
+    },
+    {
+      "name": "Next.js",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"
+    },
+    {
+      "name": "HTML5",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
+    },
+    {
+      "name": "CSS3",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"
+    },
+    {
+      "name": "SASS",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-SASS-ffffff?style=flat-square&logo=sass"
+    },
+    {
+      "name": "Bootstrap",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"
+    },
+    {
+      "name": "Tailwind CSS",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/-Webpack-8DD3F5?style=flat-square&logo=webpack&logoColor=black"
+    }
+  ],
+  "backend": [
+    {
+      "name": "Node.js",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"
+    },
+    {
+      "name": "Express.js",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"
+    }
+  ],
+  "database": [
+    {
+      "name": "MongoDB",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": 3,
+      "level": "Intermediate",
+      "badge": "https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
+    },
+    {
+      "name": "Docker",
+      "proficiency": 3,
+      "level": "Intermediate",
+      "badge": "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
+    },
+    {
+      "name": "VS Code",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white"
+    }
+  ],
+  "cloud": [
+    {
+      "name": "Azure",
+      "proficiency": 5,
+      "level": "Expert",
+      "badge": "https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=azure&logoColor=white"
+    }
+  ]
+}
