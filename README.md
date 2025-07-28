@@ -1,7 +1,7 @@
 # Hi, I am Rajesh Sharma 👋
 
 <div align="center">
-    <table cellpadding="0"  cellspacing="0" border="0">
+    <table cellpadding="0"  cellspacing="0" border="0" bgcolor="white">
         <tr>
             <td align="center" bgcolor="#ffffff" width="180">
                 <img src="images/silhouette.svg" width="150" />
