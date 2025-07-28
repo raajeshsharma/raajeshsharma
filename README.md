@@ -1,31 +1,23 @@
-# Hi, I am Rajesh Sharma 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite+AU+QLD&pause=1000&size=25&color=F7F7F7&vCenter=true&random=true&width=435&lines=Hi%2C+I+am+Rajesh+Sharma)](https://git.io/typing-svg)
+----
 <div align="center">
-    <table cellpadding="0"  cellspacing="0" border="0" bgcolor="white">
-        <tr>
-            <td align="center" bgcolor="#ffffff" width="180">
-                <img src="images/silhouette.svg" width="150" />
-            </td>
-            <td align="center" bgcolor="#fff">
-                <img src="images/header.jpg" width="100%" />
-            </td>
-        </tr>
-    </table>
+    <img src="images/header.jpg" width="100%" />        
 </div>
 
 <div align="right">
-  
+
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raajeshsharma)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://raajeshsharma.github.io)
 
 </div>
 
 ## About Me
->With 18+ years of experience, I'm a Senior Software Engineer at Capgemini, specializing in frontend UI development and mockup design. I have extensive experience with web technologies including HTML5, SASS, React, Redux, Node, Express, Webpack, TypeScript, Bootstrap, and Tailwind, and a strong focus on cross-browser compatibility and performance tuning.
 
-My design and animation skills cover Photoshop, Adobe XD, Illustrator, and Adobe Animate. I'm also familiar with platforms like Salesforce Commerce Cloud, Adobe Experience Manager, Magento, and WordPress.
+### With 18+ years of experience, I'm a Senior Software Engineer at Capgemini, specializing in frontend UI development and mockup design. I have extensive experience with web technologies including HTML5, SASS, React, Redux, Node, Express, Webpack, TypeScript, Bootstrap, and Tailwind, and a strong focus on cross-browser compatibility and performance tuning.
 
-I excel in the end-to-end application development lifecycle, from requirements analysis and system design to coding, testing, debugging, documentation, and implementation. I'm a team player with strong interpersonal and communication skills, adept at coordinating with project teams and business users. I can resolve complex issues independently, and I'm skilled in training and mentoring subordinates.
+#### My design and animation skills cover Photoshop, Adobe XD, Illustrator, and Adobe Animate. I'm also familiar with platforms like Salesforce Commerce Cloud, Adobe Experience Manager, Magento, and WordPress.
+
+#### I excel in the end-to-end application development lifecycle, from requirements analysis and system design to coding, testing, debugging, documentation, and implementation. I'm a team player with strong interpersonal and communication skills, adept at coordinating with project teams and business users. I can resolve complex issues independently, and I'm skilled in training and mentoring subordinates.
 
 <div align="left">
 
