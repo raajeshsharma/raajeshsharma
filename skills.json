@@ -86,8 +86,15 @@
       "name": "Express.js",
       "proficiency": 4,
       "level": "Advanced",
-      "badge": "https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"
+      "badge": "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+    },
+    {
+      "name": "Java",
+      "proficiency": 4,
+      "level": "Intermediate",
+      "badge": "https://img.shields.io/badge/-java.js-000000?style=flat-square&logo=java&logoColor=white"
     }
+
   ],
   "database": [
     {
