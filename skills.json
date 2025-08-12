@@ -17,12 +17,6 @@
       "proficiency": 4,
       "level": "Advanced",
       "badge": "https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
-    },
-    {
-      "name": "Java",
-      "proficiency": 3,
-      "level": "Intermediate",
-      "badge": "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"
     }
   ],
   "frontend": [
