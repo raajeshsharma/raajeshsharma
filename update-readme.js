@@ -39,7 +39,7 @@ let readmeContent = fs.readFileSync('README.md', 'utf8');
 
 // Find the tech stack section and replace it
 // Find the tech stack section and replace it
-const techStackHeading = '## 🛠️ Tech Stack';
+const techStackHeading = '## Tech Stack';
 const techStackStart = readmeContent.indexOf(techStackHeading);
 let nextSectionStart = -1;
 if (techStackStart !== -1) {
