@@ -87,8 +87,13 @@
       "proficiency": 4,
       "level": "Intermediate",
       "badge": "https://img.shields.io/badge/-java.js-000000?style=flat-square&logo=java&logoColor=white"
+    },
+    {
+      "name": "PHP",
+      "proficiency": 4,
+      "level": "Advanced",
+      "badge": "https://img.shields.io/badge/PHP-777BB4??style=flat-square&logo=php&logoColor=white"
     }
-
   ],
   "database": [
     {
