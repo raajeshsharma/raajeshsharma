@@ -56,6 +56,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=azure&logoColor=white)
 </div> 
 
+<!-- 
 ## 🎯 Current Focus
 
 <div align="left">
@@ -74,7 +75,7 @@ mindmap
       IOT (Internet of Things)
 ```
 
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 
@@ -93,5 +94,7 @@ Feel free to reach out if you want to discuss technology, share ideas, or just c
 
 **💫 Built with ❤️ by [Rajesh Sharma](https://github.com/raajeshsharma)**  
 *Last updated: August 2025*
-
 </div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=raajeshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="raajeshsharma" />
+</p>
