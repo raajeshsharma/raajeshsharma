@@ -41,7 +41,7 @@
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) 
-![Java](https://img.shields.io/badge/-java.js-000000?style=flat-square&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4??style=flat-square&logo=php&logoColor=white) 
 
 ### Database Technologies
