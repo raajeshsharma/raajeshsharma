@@ -86,7 +86,7 @@
       "name": "Java",
       "proficiency": 4,
       "level": "Intermediate",
-      "badge": "https://img.shields.io/badge/-java.js-000000?style=flat-square&logo=java&logoColor=white"
+      "badge": "https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"
     },
     {
       "name": "PHP",
